@@ -1,0 +1,70 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+        "navigationStyle":"custom" ,    //  用于去除原声顶部导航的属性
+				"navigationBarTitleText": "首页"
+        // "navigationBarBackgroundColor": "#ff0"
+			}
+		}
+	    ,{
+            "path" : "pages/yingbinlu/yingbinlu",
+            "style" : {
+              "navigationStyle":"custom" ,
+        "navigationBarTitleText": "迎宾路",
+        "enablePullDownRefresh":true     //开启下拉更新模式 属性
+            }
+        }
+        ,{
+            "path" : "pages/tuanjielu/tuanjielu",
+            "style" : {
+              "navigationBarTitleText":"团结路"
+            }
+        }
+        ,{
+            "path" : "pages/aaa/aaa",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/animation/animation",
+            "style" : {}
+        }
+        ,{
+            "path" : "pages/xialaxuan/xialaxuan",
+            "style" : {}
+        }
+    ],
+    "tabBar": {
+      "borderStyle":"white",
+      "backgroundColor": "#FFFFFF",
+      "selectedColor": "#FFFFFF",
+      "color":"#FFFFFF",
+      "list": [
+        {
+          "pagePath":"pages/index/index",
+          "text":"首页"
+          // "iconPath":"static/daohang1.jpg",
+          // "selectedIconPath":"static/daohang2.jpg"    //active--background
+        },
+        {
+          "pagePath":"pages/yingbinlu/yingbinlu",
+          "text":"迎宾路"
+          // "iconPath":"static/daohang1.jpg",
+          // "selectedIconPath":"static/daohang2.jpg"    //active--background
+        },
+        {
+          "pagePath":"pages/tuanjielu/tuanjielu",
+          "text":"团结路"
+          // "iconPath":"static/daohang1.jpg",
+          // "selectedIconPath":"static/daohang2.jpg"    //active--background
+        }
+      ]
+    },
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app", //导航栏名称
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
