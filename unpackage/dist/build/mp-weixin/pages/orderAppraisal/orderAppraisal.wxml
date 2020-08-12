@@ -1,0 +1,1 @@
+<view><appraisal-user vue-id="1" dataList="{{dataList}}" state="{{type}}" auth="{{auth}}" identTab="{{identTab}}" bind:__l="__l"></appraisal-user><block wx:if="{{dataList.length==0}}"><view class="pic"><image src="../../static/identify.png"></image><text>您还没有任何订单</text></view></block><block wx:else><view class="no-data">已经触碰到我的底线啦</view></block></view>

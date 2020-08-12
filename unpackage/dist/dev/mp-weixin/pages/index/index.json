@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "包铺鉴定",
+  "navigationBarTextStyle": "white",
+  "navigationBarBackgroundColor": "#C4A770",
+  "usingComponents": {
+    "appraisal-item": "/components/appraisal-item/appraisal-item",
+    "atricles-item": "/components/atricles-item/atricles-item",
+    "nav-bar": "/components/nav-bar/nav-bar"
+  }
+}

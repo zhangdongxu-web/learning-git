@@ -1,0 +1,265 @@
+{
+  "pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "包铺鉴定",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#C4A770"
+      }
+    },
+	{
+	  "path": "pages/aaaa/aaaa",
+	  "style": {
+	    "navigationBarTitleText": "弹框说明",
+	    "navigationBarTextStyle": "white",
+	    "navigationBarBackgroundColor": "#C4A770"
+	  }
+	},
+    {
+      "path": "pages/mine/mine",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#35363B"
+      }
+    },
+    {
+      "path": "pages/onlineappraisal/onlineappraisal",
+      "style": {
+        "navigationBarTitleText": "包铺小秘书"
+      }
+    },
+    {
+      "path": "pages/Identification/Identification",
+      "style": {
+        "navigationBarTitleText": "鉴定中"
+      }
+    },
+    {
+      "path":"pages/purchase/purchase",
+      "style":{
+        "navigationBarTitleText":"物品描述"
+      }
+    },
+    {
+      "path": "pages/appraisalRoom/appraisalRoom",
+      "style": {
+        "navigationBarTitleText": "鉴定室"
+      }
+    }, {
+      "path": "pages/IdentRoom/IdentRoom",
+      "style": {}
+    },{
+	  "path": "pages/IdentRoom/IdentRoom2",
+	  "style": {
+		  "navigationBarTitleText": "鉴定证书"
+	  }
+	},{
+      "path": "pages/objeceAppraisal/objeceAppraisal",
+      "style": {
+        "navigationBarTitleText": "包铺鉴定"
+      }
+    }, {
+      "path": "pages/appraisal-list/appraisal-list",
+      "style": {
+        "navigationBarTitleText": "鉴定师列表"
+      }
+    }, {
+      "path": "pages/appraisalDetail/appraisalDetail",
+      "style": {
+        "navigationBarTitleText": "鉴定师详情",
+        "navigationBarTextStyle": "white",
+        "navigationStyle": "custom"
+      }
+    }, {
+      "path": "pages/login/login/login",
+      "style": {
+        "navigationBarTitleText": "登录"
+      }
+    }, {
+      "path": "pages/login/register/register",
+      "style": {
+        "navigationBarTitleText": "注册"
+      }
+    }, {
+      "path": "pages/login/forgetPassword/forgetPassword",
+      "style": {
+        "navigationBarTitleText": "手机号登录"
+      }
+    }, {
+      "path": "pages/login/changePassword/changePassword",
+      "style": {
+        "navigationBarTitleText": "修改密码"
+      }
+    }, {
+      "path": "pages/appraisalPool/appraisalPool",
+      "style": {
+        "navigationBarTitleText": "鉴定池",
+        "navigationBarTextStyle": "white",
+        "navigationStyle": "custom"
+      }
+    }, {
+      "path": "pages/orderList/orderList",
+      "style": {
+        "navigationBarTitleText": "订单",
+		"disableScroll":true
+      }
+	 
+    }, {
+      "path": "pages/appraisalMine/appraisalMine",
+      "style": {
+        "navigationBarTitleText": "我的",
+        "navigationBarTextStyle": "white",
+        "navigationStyle": "custom"
+      }
+    }, {
+      "path": "pages/orderAppraisal/orderAppraisal",
+      "style": {
+        "navigationBarTitleText": "鉴定中"
+      }
+    }, {
+      "path": "pages/accountBalance/accountBalance",
+      "style": {
+        "navigationBarTitleText": "提现及结算列表"
+      }
+    }, {
+      "path": "pages/touchBalance/touchBalance",
+      "style": {
+        "navigationBarTitleText": "金额明细"
+      }
+    }, {
+      "path": "pages/countEchart/countEchart",
+      "style": {}
+    }, {
+      "path": "pages/myPoints/myPoints",
+      "style": {
+        "navigationBarTitleText": "我的主页",
+        "navigationStyle": "custom",
+        "navigationBarTextStyle": "white",
+        "navigationBarBackgroundColor": "#35363B"
+      }
+    }, {
+      "path": "pages/IntegralDetails/IntegralDetails",
+      "style": {
+        "navigationBarTitleText": "积分明细",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/SettingData/SettingData",
+      "style": {
+        "navigationBarTitleText": "设置",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/personalData/personalData",
+      "style": {
+        "navigationBarTitleText": "个人资料",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/addAdress/addAdress",
+      "style": {
+        "navigationBarTitleText": "地址管理",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/adressAdmin/adressAdmin",
+      "style": {
+        "navigationBarTitleText": "地址管理",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/updatePassword/updatePassword",
+      "style": {
+        "navigationBarTitleText": "修改密码",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/changeNickName/changeNickName",
+      "style": {
+        "navigationBarTitleText": "修改昵称",
+        "navigationBarTextStyle": "black",
+        "navigationBarBackgroundColor": "#FFFFFF"
+      }
+    }, {
+      "path": "pages/withdraw/withdraw",
+      "style": {
+        "navigationBarTitleText": "提现及结算列表"
+      }
+    }, {
+      "path": "pages/onlineAppraisalDetail/onlineAppraisalDetail",
+      "style": {
+        "navigationBarTitleText": "鉴定中详情"
+      }
+    }, {
+      "path": "pages/physicalIdentification/physicalIdentification",
+      "style": {
+        "navigationBarTitleText": "鉴定详情"
+      }
+    }, {
+      "path": "pages/poolDetail/poolDetail",
+      "style": {
+        "navigationBarTitleText": "鉴定详情"
+      }
+    }, {
+      "path": "pages/appraisalReport/appraisalReport",
+      "style": {
+        "navigationBarTitleText": "鉴定报告"
+      }
+    }, {
+      "path": "pages/appraisalProductReport/appraisalProductReport",
+      "style": {
+        "navigationBarTitleText": "鉴定报告"
+      }
+    },{
+      "path":"pages/Jddetails/Jddetails",
+      "style":{
+        "navigationBarTitleText":"鉴定报告"
+      }
+    },{
+		"path" : "pages/protocol/protocol",
+		"style" : {
+			"navigationBarTitleText":"协议"
+		}
+	}],
+  "tabBar": {
+    "color": "#fff",
+    "selectedColor": "#fff",
+    "backgroundColor": "#ffffff",
+    "list": [{
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/appraisalPool/appraisalPool",
+        "text": "鉴定池"
+      },
+      {
+        "pagePath": "pages/orderList/orderList",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/appraisalMine/appraisalMine",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "包铺鉴定",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  }
+}

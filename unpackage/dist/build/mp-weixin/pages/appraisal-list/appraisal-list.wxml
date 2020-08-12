@@ -1,0 +1,1 @@
+<view><appraisal-item vue-id="1" gemmologist="{{gemmologist}}" bind:__l="__l"></appraisal-item><view class="no-data">已经触碰到我的底线啦</view></view>

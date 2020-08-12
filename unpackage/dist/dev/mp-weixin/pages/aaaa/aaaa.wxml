@@ -1,0 +1,1 @@
+<view style="line-height:50rpx;padding:20rpx;" class="data-v-2905dd06"><view class="h1 data-v-2905dd06">{{txt1}}</view><rich-text nodes="{{context1}}" class="data-v-2905dd06"></rich-text></view>

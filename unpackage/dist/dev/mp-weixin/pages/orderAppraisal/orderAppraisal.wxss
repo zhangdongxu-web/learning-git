@@ -1,0 +1,24 @@
+.pic {
+  width: 500rpx;
+  height: 480rpx;
+  position: fixed;
+  top: 40%;
+  left: 50%;
+  margin-top: -240rpx;
+  margin-left: -250rpx;
+  text-align: center;
+}
+.pic image {
+  width: 500rpx;
+  height: 410rpx;
+  margin-bottom: 20rpx;
+}
+.pic text {
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  line-height: 50rpx;
+  color: #c1c1c1;
+  opacity: 1;
+}
+

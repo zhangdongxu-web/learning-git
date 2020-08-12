@@ -1,0 +1,1 @@
+<view class="nickname data-v-f0c13856"><input data-event-opts="{{[['input',[['__set_model',['','saveName','$event',[]]]]]]}}" value="{{saveName}}" bindinput="__e" class="data-v-f0c13856"/><view class="fixed_btn data-v-f0c13856"><view data-event-opts="{{[['tap',[['savenickhand',['$event']]]]]}}" class="button data-v-f0c13856" bindtap="__e">保存</view></view></view>

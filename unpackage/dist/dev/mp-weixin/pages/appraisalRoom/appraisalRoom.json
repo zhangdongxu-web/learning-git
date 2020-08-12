@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "鉴定室",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

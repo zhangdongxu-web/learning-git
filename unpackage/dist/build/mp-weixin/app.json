@@ -1,0 +1,90 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/aaaa/aaaa",
+    "pages/mine/mine",
+    "pages/onlineappraisal/onlineappraisal",
+    "pages/Identification/Identification",
+    "pages/purchase/purchase",
+    "pages/appraisalRoom/appraisalRoom",
+    "pages/IdentRoom/IdentRoom",
+    "pages/IdentRoom/IdentRoom2",
+    "pages/objeceAppraisal/objeceAppraisal",
+    "pages/appraisal-list/appraisal-list",
+    "pages/appraisalDetail/appraisalDetail",
+    "pages/login/login/login",
+    "pages/login/register/register",
+    "pages/login/forgetPassword/forgetPassword",
+    "pages/login/changePassword/changePassword",
+    "pages/appraisalPool/appraisalPool",
+    "pages/orderList/orderList",
+    "pages/appraisalMine/appraisalMine",
+    "pages/orderAppraisal/orderAppraisal",
+    "pages/accountBalance/accountBalance",
+    "pages/touchBalance/touchBalance",
+    "pages/countEchart/countEchart",
+    "pages/myPoints/myPoints",
+    "pages/IntegralDetails/IntegralDetails",
+    "pages/SettingData/SettingData",
+    "pages/personalData/personalData",
+    "pages/addAdress/addAdress",
+    "pages/adressAdmin/adressAdmin",
+    "pages/updatePassword/updatePassword",
+    "pages/changeNickName/changeNickName",
+    "pages/withdraw/withdraw",
+    "pages/onlineAppraisalDetail/onlineAppraisalDetail",
+    "pages/physicalIdentification/physicalIdentification",
+    "pages/poolDetail/poolDetail",
+    "pages/appraisalReport/appraisalReport",
+    "pages/appraisalProductReport/appraisalProductReport",
+    "pages/Jddetails/Jddetails",
+    "pages/protocol/protocol"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "包铺鉴定",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#FFFFFF"
+  },
+  "tabBar": {
+    "color": "#fff",
+    "selectedColor": "#fff",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的"
+      },
+      {
+        "pagePath": "pages/appraisalPool/appraisalPool",
+        "text": "鉴定池"
+      },
+      {
+        "pagePath": "pages/orderList/orderList",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/appraisalMine/appraisalMine",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {
+    "navtop-hide": "/components/navtop-hide/navtop-hide",
+    "login-title": "/components/login-title/login-title",
+    "cropper": "/components/lxiaoxiao-cropper/cropper",
+    "nav-bar": "/components/nav-bar/nav-bar",
+    "u-echarts": "/js_sdk/u-charts/component",
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "appraisal-item": "/components/appraisal-item/appraisal-item",
+    "atricles-item": "/components/atricles-item/atricles-item",
+    "appraisal-user": "/components/appraisal-user/appraisal-user",
+    "ring": "/components/ring/ring"
+  },
+  "sitemapLocation": "sitemap.json"
+}

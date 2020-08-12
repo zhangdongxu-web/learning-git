@@ -1,0 +1,162 @@
+.page.data-v-3bbe5b66 {
+  background-size: 100% 690rpx;
+}
+.my_points_top.data-v-3bbe5b66 {
+  width: 100%;
+  height: 502rpx;
+  overflow: hidden;
+}
+.available_points.data-v-3bbe5b66,
+.points_num.data-v-3bbe5b66,
+.points_detail.data-v-3bbe5b66 {
+  text-align: center;
+}
+.available_points.data-v-3bbe5b66 {
+  color: #FFFFFF;
+  font-size: 26rpx;
+  padding-top: 50rpx;
+}
+.points_num.data-v-3bbe5b66 {
+  color: #C9AB79;
+  padding-top: 20rpx;
+  font-size: 60rpx;
+  font-weight: 600;
+}
+.points_detail_main.data-v-3bbe5b66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  padding-top: 30rpx;
+}
+.points_detail_main .points_detail.data-v-3bbe5b66 {
+  display: inline-block;
+  width: 230rpx;
+  height: 70rpx;
+  line-height: 70rpx;
+  background: #FFFFFF;
+  color: #C9AB79;
+  border-radius: 40rpx;
+}
+.points_detail_main .points_detail text.data-v-3bbe5b66 {
+  font-size: 26rpx;
+}
+.points_budget_main.data-v-3bbe5b66 {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 30rpx;
+  height: 200rpx;
+  overflow: hidden;
+  margin-top: -199rpx;
+}
+.points_budget_main .points_budget.data-v-3bbe5b66 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  background: #C9AB79;
+  color: #FFFFFF;
+  height: 220rpx;
+  padding: 30rpx 0;
+  box-sizing: border-box;
+  border-radius: 20rpx;
+}
+.points_budget_main .points_budget > view.data-v-3bbe5b66 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  box-sizing: border-box;
+  padding-left: 80rpx;
+}
+.points_budget_main .points_budget_title.data-v-3bbe5b66 {
+  font-size: 30rpx;
+  color: #FFFFFF;
+}
+.points_budget_main .points_budget_text.data-v-3bbe5b66 {
+  padding-top: 30rpx;
+  font-size: 46rpx;
+  color: #FFFFFF;
+}
+.get_integral_main.data-v-3bbe5b66 {
+  padding: 0 30rpx;
+}
+.get_integral_main .get_integral_title.data-v-3bbe5b66 {
+  font-size: 32rpx;
+  color: #202022;
+  font-weight: bold;
+  height: 100rpx;
+  line-height: 100rpx;
+}
+.get_integral_main .get_integral_item.data-v-3bbe5b66 {
+  height: 180rpx;
+  background: #F8F8F8;
+  padding: 0 30rpx;
+  padding-top: 50rpx;
+  margin-bottom: 30rpx;
+  box-sizing: border-box;
+  border-radius: 8rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.get_integral_main .get_integral_item .get_integral_item_l.data-v-3bbe5b66 {
+  width: 80rpx;
+  height: 80rpx;
+  background: #c9ab79;
+  border-radius: 50%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.get_integral_main .get_integral_item .get_integral_item_l image.data-v-3bbe5b66 {
+  width: 36rpx;
+  height: 34rpx;
+}
+.get_integral_main .get_integral_item .get_integral_item_z.data-v-3bbe5b66 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  padding-left: 20rpx;
+}
+.get_integral_main .get_integral_item .get_integral_item_z .get_integral_item_title.data-v-3bbe5b66 {
+  padding-top: 5rpx;
+  font-size: 32rpx;
+  font-weight: bold;
+  color: #202022;
+}
+.get_integral_main .get_integral_item .get_integral_item_z .get_integral_item_text.data-v-3bbe5b66 {
+  padding-top: 10rpx;
+  font-size: 32rpx;
+  color: #c1c1c1;
+}
+.get_integral_main .get_integral_item .get_integral_item_z .get_integral_item_text image.data-v-3bbe5b66 {
+  width: 30rpx;
+  height: 32rpx;
+}
+.get_integral_main .get_integral_item .get_integral_item_r.data-v-3bbe5b66 {
+  width: 140rpx;
+  height: 70rpx;
+  background: #c1c1c1;
+  border-radius: 99rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  color: #FFFFFF;
+}
+.get_integral_main .get_integral_item .get_integral_item_r.active.data-v-3bbe5b66 {
+  background: #c9ab79;
+}
+

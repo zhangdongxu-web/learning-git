@@ -1,0 +1,27 @@
+.v-circle.data-v-162e36f8 {
+  border-radius: 50%;
+  position: relative;
+}
+.v-circle .mask.data-v-162e36f8, .v-circle .fill.data-v-162e36f8 {
+  position: absolute;
+  border-radius: 50%;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.v-circle .pv.data-v-162e36f8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: auto;
+  z-index: 1;
+  border-radius: 50%;
+  text-align: center;
+}
+.v-circle .pv .progress.data-v-162e36f8 {
+  margin: 0;
+  padding: 0;
+  font-family: 'Impact';
+}
+

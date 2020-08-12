@@ -1,0 +1,199 @@
+.detail {
+  width: 100%;
+  height: 100%;
+}
+.detail .nav {
+  width: 100%;
+  height: 340rpx;
+  position: relative;
+}
+.detail .nav image {
+  width: 100%;
+  height: 100%;
+}
+.detail .nav .navLeft {
+  width: 325rpx;
+  height: 180rpx;
+  background: #ffffff;
+  box-shadow: 0px 10rpx 30rpx rgba(0, 0, 0, 0.08);
+  border-radius: 8rpx;
+  position: absolute;
+  left: 40rpx;
+  top: 240rpx;
+}
+.detail .nav .navRight {
+  width: 325rpx;
+  height: 180rpx;
+  position: absolute;
+  background: #ffffff;
+  box-shadow: 0px 10rpx 30rpx rgba(0, 0, 0, 0.08);
+  border-radius: 8rpx;
+  left: 385rpx;
+  top: 240rpx;
+}
+.detail .main {
+  padding: 110rpx 0 35rpx 0;
+}
+.detail .main .con {
+  width: 640rpx;
+  height: 510rpx;
+  background: #ffffff;
+  box-shadow: 0px 10rpx 30rpx rgba(0, 0, 0, 0.07);
+  opacity: 1;
+  border-radius: 8rpx;
+  padding: 0 10rpx 0 20rpx;
+  margin: 0 auto;
+}
+.detail .main .con .h {
+  width: 100%;
+  height: 100rpx;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: bold;
+  line-height: 100rpx;
+  color: #202022;
+  opacity: 1;
+  border-bottom: 1px solid #f5f5f5;
+}
+.detail .main .con .liBox .liBoxOne {
+  width: 100%;
+  height: 100rpx;
+  border-bottom: 1rpx solid #f5f5f5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.detail .main .con .liBox .liBoxOne label {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.detail .main .con .liBox .liBoxOne label view {
+  display: inline-block;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font: 25rpx/100rpx '微软雅黑';
+}
+.detail .main .con .liBox .liBoxOne label .Right {
+  position: relative;
+}
+.detail .main .con .liBox .liBoxOne label .Right .radio {
+  position: absolute;
+  right: 35rpx;
+}
+.detail .main .con .liBox .liBoxOne:nth-child(4) {
+  width: 50%;
+}
+.detail .details {
+  padding: 0 0 40rpx 0;
+  overflow: hidden;
+}
+.detail .details .titles {
+  width: 670rpx;
+  height: 280rpx;
+  background: #ffffff;
+  box-shadow: 0px 10rpx 30rpx rgba(0, 0, 0, 0.07);
+  opacity: 1;
+  border-radius: 8rpx;
+  margin: 0 auto;
+}
+.detail .details .titles .h2 {
+  height: 65rpx;
+  font-size: 32rpx;
+  font-family: '微软雅黑';
+  font-weight: bold;
+  line-height: 65rpx;
+  color: #202022;
+  border-bottom: 1rpx solid #f5f5f5;
+  opacity: 1;
+  padding-left: 20rpx;
+}
+.detail .details .titles .text {
+  width: 100%;
+}
+.detail .details .titles .text .textarea {
+  width: 631rpx;
+  height: 100rpx;
+  font-size: 28rpx;
+  font-family: '\5FAE\8F6F\96C5\9ED1';
+  font-weight: 400;
+  line-height: 48rpx;
+  color: #999a9b;
+  opacity: 1;
+  margin: 0 auto;
+  padding: 31rpx 0;
+}
+.detail .footer {
+  width: 670rpx;
+  height: 100rpx;
+  background: #35363b;
+  font: 30rpx/100rpx '微软雅黑';
+  color: #c9ab79;
+  text-align: center;
+  margin: 0 auto;
+}
+.rateText {
+  font-size: 24rpx;
+  color: #35363B;
+  padding-top: 40rpx;
+  padding-left: 20rpx;
+  font-weight: bold;
+}
+.rateNum {
+  font-size: 44rpx;
+  color: #C9AB79;
+  padding-top: 20rpx;
+  padding-left: 20rpx;
+  white-space: nowrap;
+  font-weight: bold;
+}
+.rateBox {
+  float: right;
+  position: relative;
+  margin-right: 30rpx;
+  margin-top: 30rpx;
+  width: 90rpx;
+  height: 90rpx;
+}
+.circle,
+.test1 {
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+}
+.circle {
+  background-color: #ccc;
+  text-align: center;
+  position: relative;
+}
+.test2 {
+  background-color: #C9AB79;
+  /*position: absolute;*/
+  /*clip: rect(0px,200px,200px,100px);*/
+  /*-webkit-clip-path:polygon(50% 50%,50% 0%,100% 0%,100% 100%,0% 100%,0% 0%,30% 0%);*/
+  -webkit-clip-path: polygon(50% 50%, 50% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 0%, 30% 0%);
+          clip-path: polygon(50% 50%, 50% 0%, 100% 0%, 100% 100%, 0% 100%, 0% 0%, 30% 0%);
+}
+.circle-ban {
+  width: 80%;
+  height: 80%;
+  border-radius: 50%;
+  background-color: white;
+  position: absolute;
+  top: 10%;
+  left: 10%;
+}
+

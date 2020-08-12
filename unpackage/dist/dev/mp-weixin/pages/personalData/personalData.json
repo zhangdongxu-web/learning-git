@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "个人资料",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#FFFFFF",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
+    "w-picker": "/components/w-picker/w-picker"
+  }
+}

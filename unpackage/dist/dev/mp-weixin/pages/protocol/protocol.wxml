@@ -1,0 +1,1 @@
+<view><view class="h1">{{txt1}}</view><view class="txt"><rich-text nodes="{{context1}}"></rich-text></view><view class="h1">{{txt2}}</view><view class="txt"><rich-text nodes="{{context2}}"></rich-text></view></view>

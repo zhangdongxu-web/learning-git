@@ -1,0 +1,49 @@
+.nickname.data-v-65bfedf4 {
+  height: 60rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  width: 100%;
+  padding: 25rpx 30rpx 0;
+  box-sizing: border-box;
+}
+.nickname .savenick.data-v-65bfedf4 {
+  width: 20%;
+  background: #007AFF;
+  color: #FFFFFF;
+  text-align: center;
+  height: 100%;
+  font-size: 32rpx;
+  line-height: 60rpx;
+}
+.nickname input.data-v-65bfedf4 {
+  width: 80%;
+  height: 100%;
+  line-height: 60rpx;
+  font-size: 32rpx;
+  padding-bottom: 20rpx;
+  border-bottom: 1px solid #dddddd;
+}
+.fixed_btn.data-v-65bfedf4 {
+  position: fixed;
+  bottom: 60rpx;
+  width: 100%;
+  padding: 0 30rpx;
+  box-sizing: border-box;
+}
+.fixed_btn .button.data-v-65bfedf4 {
+  height: 100rpx;
+  border-radius: 10rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background: #000000;
+  font-size: 32rpx;
+  color: #D5BD94;
+}
+

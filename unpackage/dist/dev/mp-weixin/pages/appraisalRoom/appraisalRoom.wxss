@@ -1,0 +1,279 @@
+.record.data-v-38423888 {
+  position: fixed;
+  right: 20rpx;
+  bottom: 20rpx;
+  background: rgba(0, 0, 0, 0.6);
+  width: 300rpx;
+  height: 340rpx;
+  text-align: center;
+  border-radius: 10rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+}
+.record image.data-v-38423888 {
+  width: 200rpx;
+  height: 170rpx;
+}
+.successMasker.data-v-38423888 {
+  z-index: 99999;
+}
+.successMasker.data-v-38423888 .uni-popup__wrapper-box {
+  border-radius: 16rpx;
+  padding: 0 !important;
+}
+.appraisalRoom .success-btn.data-v-38423888 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.appraisalRoom .success-btn .a.data-v-38423888 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  line-height: 100rpx;
+  background: #BE9F62;
+  color: #FFFFFF;
+}
+.appraisalRoom .success-btn .a.black.data-v-38423888 {
+  background: #35363B;
+}
+.appraisalRoom .success-wrap.data-v-38423888 {
+  width: 620rpx;
+  padding: 60rpx 30rpx 30rpx;
+  box-sizing: border-box;
+  text-align: center;
+  z-index: 99999;
+}
+.appraisalRoom .success-wrap .h1.data-v-38423888 {
+  font-size: 42rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+.appraisalRoom .success-wrap .p.data-v-38423888 {
+  color: #999999;
+  line-height: 44rpx;
+}
+.appraisalRoom .success-wrap .circle-success.data-v-38423888 {
+  width: 120rpx;
+  height: 120rpx;
+  margin: 0 auto 30rpx;
+  text-align: center;
+  line-height: 120rpx;
+  border-radius: 120rpx;
+  background: #BE9F62;
+}
+.appraisalRoom .success-wrap .circle-success .icon-check.data-v-38423888 {
+  margin-top: -10rpx;
+}
+.appraisalRoom .success-wrap .circle-success .icon-check.data-v-38423888::before {
+  border-color: #FFFFFF;
+  height: 20rpx;
+  width: 36rpx;
+}
+.appraisalRoom .playVoice.data-v-38423888 {
+  line-height: 90rpx;
+  text-align: center;
+  background: #C9AB79;
+  margin-bottom: 20rpx;
+  border-radius: 8rpx;
+  font-size: 26rpx;
+  color: #FFFFFF;
+  text-align: right;
+  padding: 0 30rpx;
+}
+.appraisalRoom .playVoice image.data-v-38423888 {
+  width: 29rpx;
+  height: 27rpx;
+  margin-left: 10rpx;
+  vertical-align: middle;
+}
+.appraisalRoom .voice-btn.data-v-38423888 {
+  line-height: 90rpx;
+  text-align: center;
+  background: #C9AB79;
+  border-radius: 8rpx;
+  color: #FFFFFF;
+  font-size: 26rpx;
+}
+.appraisalRoom .voice-btn.revoic.data-v-38423888 {
+  background: #35363B;
+  color: #C9AB79;
+}
+.appraisalRoom .cut-wrap.data-v-38423888 {
+  margin-top: 30rpx;
+  text-align: center;
+}
+.appraisalRoom .cut-wrap .cut-btn.data-v-38423888 {
+  display: inline-block;
+  color: #999999;
+  font-size: 26rpx;
+}
+.appraisalRoom .cut-wrap .cut-btn image.data-v-38423888 {
+  width: 22rpx;
+  height: 28rpx;
+  vertical-align: middle;
+  margin: -3rpx 7rpx 0 0;
+}
+.appraisalRoom .other-txt.data-v-38423888 {
+  width: 100%;
+  height: 150rpx;
+  box-sizing: border-box;
+  padding: 25rpx 20rpx;
+  line-height: 40rpx;
+  font-size: 26rpx;
+  background: #FFFFFF;
+  letter-spacing: 5px;
+}
+.appraisalRoom .submit-btn.data-v-38423888 {
+  width: 622rpx;
+  line-height: 100rpx;
+  text-align: center;
+  background: #35363B;
+  border-radius: 8rpx;
+  color: #C9AB79;
+  font-size: 32rpx;
+  margin: 90rpx auto 0;
+}
+.appraisalRoom .watchvideo.data-v-38423888 {
+  text-align: center;
+}
+.appraisalRoom .watchvideo image.data-v-38423888 {
+  width: 236rpx;
+  height: 60rpx;
+}
+.appraisalRoom .desc.data-v-38423888 {
+  text-align: center;
+  color: #C1C1C1;
+  margin-bottom: 20rpx;
+}
+.appraisalRoom .finish-wrap.data-v-38423888 {
+  text-align: center;
+  font-size: 32rpx;
+  color: #333333;
+  line-height: 40rpx;
+  margin-bottom: 10rpx;
+}
+.appraisalRoom .camera-wrap.data-v-38423888 {
+  text-align: center;
+  margin-bottom: 30rpx;
+}
+.appraisalRoom .camera-wrap image.data-v-38423888 {
+  width: 160rpx;
+  height: 160rpx;
+}
+.appraisalRoom .room-swiper.data-v-38423888 {
+  padding: 0 0 0 0;
+}
+.appraisalRoom .room-swiper .swiper.data-v-38423888 {
+  height: 620rpx;
+  margin-bottom: 20rpx;
+}
+.appraisalRoom .room-swiper .end-item.data-v-38423888 {
+  width: 620rpx;
+  height: 620rpx;
+  background: #F8F8F8;
+  border-radius: 8rpx;
+  margin: 0 auto;
+  padding: 30rpx;
+  box-sizing: border-box;
+}
+.appraisalRoom .room-swiper .end-item .h1.data-v-38423888 {
+  font-size: 30rpx;
+  font-weight: bold;
+  margin-bottom: 20rpx;
+}
+.appraisalRoom .room-swiper .end-item .other-upload.data-v-38423888 {
+  text-align: center;
+  width: 120rpx;
+  line-height: 120rpx;
+  overflow: hidden;
+  background: #FFFFFF;
+  font-size: 48rpx;
+  color: #C1C1C1;
+}
+.appraisalRoom .room-swiper .end-item .imglist.data-v-38423888 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  margin-bottom: 30rpx;
+}
+.appraisalRoom .room-swiper .end-item .imglist .other-img.data-v-38423888 {
+  width: 120rpx;
+  height: 120rpx;
+  border-radius: 10rpx;
+  overflow: hidden;
+  margin-right: 20rpx;
+}
+.appraisalRoom .room-swiper .end-item .imglist .other-img image.data-v-38423888 {
+  width: 100%;
+  height: 100%;
+}
+.appraisalRoom .room-swiper .swiper-item.data-v-38423888 {
+  position: relative;
+  margin: 0 auto;
+  width: 620rpx;
+  height: 620rpx;
+  border-radius: 20rpx;
+  overflow: hidden;
+}
+.appraisalRoom .room-swiper .swiper-item .see-big.data-v-38423888 {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  width: 280rpx;
+  height: 48rpx;
+  background: url(data:image/png;base64,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) no-repeat center;
+  background-size: cover;
+}
+.appraisalRoom .room-swiper .swiper-item image.data-v-38423888 {
+  width: 620rpx;
+  height: 620rpx;
+}
+.appraisalRoom .room-title.data-v-38423888 {
+  padding: 50rpx 64rpx 0;
+}
+.appraisalRoom .room-title .p.data-v-38423888 {
+  font-size: 28rpx;
+  line-height: 40rpx;
+  color: #999A9B;
+  margin-bottom: 40rpx;
+}
+.appraisalRoom .room-title .h1.data-v-38423888 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  font-size: 48rpx;
+  font-weight: bold;
+  line-height: 60rpx;
+  margin-bottom: 10rpx;
+}
+.appraisalRoom .room-title .h1 .a.data-v-38423888 {
+  position: relative;
+  font-size: 28rpx;
+}
+.appraisalRoom .room-title .h1 .a image.data-v-38423888 {
+  width: 39rpx;
+  height: 43rpx;
+  vertical-align: middle;
+  margin: -3rpx 10rpx 0 0;
+}
+.appraisalRoom .room-title .h1 .a .user_kf.data-v-38423888 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+}
+

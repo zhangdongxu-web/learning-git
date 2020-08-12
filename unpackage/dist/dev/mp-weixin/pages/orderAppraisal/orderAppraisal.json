@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "鉴定中",
+  "usingComponents": {
+    "appraisal-user": "/components/appraisal-user/appraisal-user"
+  }
+}

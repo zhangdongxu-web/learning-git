@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "鉴定师列表",
+  "usingComponents": {
+    "appraisal-item": "/components/appraisal-item/appraisal-item"
+  }
+}
